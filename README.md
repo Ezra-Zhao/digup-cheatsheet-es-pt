@@ -1,5 +1,7 @@
 # DigUp 速查表 | DigUp Cheatsheet | Guía rápida de DigUp
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 > 一页看懂 DigUp：忘了文件名也能找文件。选好文件夹建本地索引，然后用一句话描述你要找的东西——「海滩上的狗」「播客里聊睡眠的那一分钟」「租房合同里关于宠物的那条」——照片、PDF、文档、录音、视频一次找出，并直接跳到对应页 / 对应分钟。全程本地运行，不上传、无账号。
 
 - 上游项目：[ARahim3/DigUp](https://github.com/ARahim3/DigUp)（2026-10-19 实测 4,958 ★，MIT 协议，免费开源）
